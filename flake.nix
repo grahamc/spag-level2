@@ -3,6 +3,8 @@
 
   inputs = {
     nixpkgs.url = "https://flakehub.com/f/NixOS/nixpkgs/0.1.tar.gz";
+    spag-level1-a.url = "https://flakehub.com/f/grahamc/spag-level1-a/0.tar.gz";
+    spag-level1-b.url = "https://flakehub.com/f/grahamc/spag-level1-b/0.tar.gz";
   };
 
   outputs =
